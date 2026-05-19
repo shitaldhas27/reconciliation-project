@@ -1,0 +1,9 @@
+Execution Steps:
+
+1. Generated synthetic dataset
+2. Added rounding errors
+3. Added duplicate transactions
+4. Handled missing settlements
+5. Built reconciliation logic
+6. Created Streamlit dashboard
+7. Tested outputs successfully
